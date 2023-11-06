@@ -68,7 +68,7 @@ describe('The user can LOG IN to the site.', () => {
       cy.get('#loginModalLabel')
         .should('have.text', 'Login')
         .should('be.visible');
-      const email = 'HaiFah35385@stud.noroff.no';
+      const email = 'haider.fahim@stud.noroff.no';
       cy.wait(1000);
       const password = 'haiderfahim1995';
       cy.get('#loginEmail').type(`${email}`);

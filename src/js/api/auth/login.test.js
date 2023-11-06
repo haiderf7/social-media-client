@@ -2,13 +2,13 @@
 
 import { login } from './login';
 
-const TestingTheMail = 'HaiFah35385@stud.noroff.no';
+const TestingTheMail = 'haider.fahim@stud.noroff.no';
 
 const TestingThePassword = 'haiderfahim1995';
 
 const TestingSuccess = {
   name: 'Haider',
-  email: 'HaiFah35385@stud.noroff.no',
+  email: 'haider.fahim@stud.noroff.no',
   accessToken: 'token',
 };
 
