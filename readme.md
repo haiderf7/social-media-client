@@ -41,7 +41,7 @@ The unit tests focus on the login function. They confirm that the function succe
 
 On the other hand, the end-to-end (E2E) tests validate the functionality of the login process, ensuring that users can't log in with incorrect or unrecognized credentials and verifying that the logout process functions correctly and securely.
 
-
+## Status Badges
 [![Automated Unit Testing](https://github.com/haiderf7/social-media-client/actions/workflows/unit-test.yml/badge.svg)](https://github.com/haiderf7/social-media-client/actions/workflows/unit-test.yml)
 
 [![Automated E2E Testing](https://github.com/haiderf7/social-media-client/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/haiderf7/social-media-client/actions/workflows/e2e-test.yml)
